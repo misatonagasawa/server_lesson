@@ -1,1 +1,300 @@
-history 300
+  266  touch gizumo04.md
+  267  touch gizumo05.md
+  268  touch gizumo06.md
+  269  touch gizumo07.md
+  270  touch gizumo08.md
+  271  touch gizumo09.md
+  272  touch gizumo10.md
+  273  touch gizumo11.md
+  274  touch gizumo12.md
+  275  touch gizumo13.md
+  276  touch gizumo14.md
+  277  touch gizumo15.md
+  278  ls
+  279  touch gizumo{16..50}.md
+  280  ls
+  281  cd linux_practice2
+  282  ls
+  283  cd
+  284  cd server_lessonn
+  285  ls
+  286  cd server_lesson
+  287  cd
+  288  cd server_lesson
+  289  ls
+  290  cd linux_practice2
+  291  mkrir trash
+  292  mkdir trash
+  293  ls
+  294  cd documents
+  295  ls
+  296  mv gizumo{20..40}.md trash
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd trash
+  301  mv documents/gizmo{20..40}.md trash
+  302  ls
+  303  cd ..
+  304  mv documenta/gizumo{20..40}.md trash
+  305  mv documents/gizumo{20..40}.md trash
+  306  cd trash
+  307  ls
+  308  cd ..
+  309  mkdir .gitignore
+  310  ls
+  311  touch .gitignore
+  312  ls
+  313  cd documents
+  314  ls
+  315  cd ..
+  316  cd ..
+  317  ls
+  318  cd linux_ractice2
+  319  cd linux_practice2
+  320  ls
+  321  ls a-
+  322  ls -a
+  323  rm -r .
+  324  rm r .
+  325  rm .
+  326  rm -r .
+  327  rm -r ..
+  328  rm . .. 
+  329  rm -r . ..
+  330  rm r- . .. .gitignore
+  331  rm -r .gitignore
+  332  ls
+  333  ls -a
+  334  rm . .. a
+  335  ls
+  336  ls -a
+  337  mv . .a
+  338  touch .gitignore
+  339  ls -a
+  340  cd .gitignore
+  341  ls
+  342  cd .gitignore
+  343  cd -a .gitignore
+  344  ls
+  345  ls -a
+  346  cd .gitignore
+  347  vi .gitignore
+  348  ls
+  349  vi .gitignore
+  350  history 300
+  351  touch exec_command.log
+  352  echo historoy 300 > exec_command.log
+  353  ls
+  354  cdexec_command.log 
+  355  cd exec_command.log
+  356  https://github.com/misatonagasawa/server_lesson.git
+  357  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  358  git remoto -v
+  359  git push origin master
+  360  git remote -v
+  361  git push origin master
+  362  git push origin master
+  363  git push origin master
+  364  git push origin master
+  365  git push origin main
+  366  git branch
+  367  pwd
+  368  ls
+  369  ls -a
+  370  cd ..
+  371  git branch
+  372  cd
+  373  ls
+  374  cd server_lesson
+  375  ls
+  376  cd linux_practice2
+  377  ls
+  378  cd ..
+  379  ls -a
+  380  git remote add originhttps://github.com/misatonagasawa/server_lesson.git
+  381  git remote -v
+  382  git push origin master
+  383  git branch
+  384  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  385  git status
+  386  git add .
+  387  git status
+  388  vi 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
+  389  cd linux_practice2
+  390  vi .gitignore
+  391  cd ../
+  392  git status
+  393  git reset HEAD
+  394  git rm --cached -r .
+  395  git add .
+  396  git status
+  397  vi .gitignore
+  398  vi .gitignore
+  399  cd linux_practice2
+  400  vi .gitignore
+  401  cd ../
+  402  git add
+  403  git add .
+  404  git status
+  405  git rm --cached -r .
+  406  git add .
+  407  git commit -m 'first commit'
+  408  git commit git -c user.name='misatonagasawa' -c user.email='m27.1ok69@icloud.com' commit -m 'first commit'
+  409  git config --global user.email "you@example.com"
+  410  git config --global user.email "you@example.com"
+  411  git config --global user.email "m27.1ok69@icloud.com"
+  412   git config --global user.name "misatonagasawa"
+  413  git commit -m 'first commit'
+  414  git push origin master
+  415  docker stop centos7
+  416  exit
+  417  /
+  418  ls
+  419  cd ../
+  420  cd ..
+  421  cd ...
+  422  .//
+  423  ls
+  424  cd root
+  425  ls
+  426  cd server_lesson
+  427  ls
+  428  cd lunix_practice2
+  429  cd linux_practice2
+  430  ls
+  431  cd ../
+  432  ls
+  433  vi README.md
+  434   cd linux_practice2
+  435  ls a-
+  436  ls -a
+  437  vi .gitignore
+  438  git status
+  439  git add.
+  440  git add .
+  441  git status
+  442  git reset HEAD
+  443  git status
+  444  vi .gitignore
+  445  git add .
+  446  git status
+  447  git reset HEAD
+  448  git status
+  449  git reset HEAD .gitigunore
+  450  git add .
+  451  git status
+  452  git reset HEAD .gitigunore
+  453  git status
+  454  vi .gitignore
+  455  vi .gitignore
+  456  git add .
+  457  git status
+  458  git reset HEAD
+  459  git reset HEAD .gitigunore
+  460  git status
+  461  vi .gitignore
+  462  git add  .
+  463  git status
+  464  git add .
+  465  git status
+  466  vi .gitignore
+  467  git add .
+  468  git status
+  469  vi .gitignore
+  470  vi .gitignore
+  471  git add .
+  472  vi .gitignore
+  473  git status
+  474  vi .gitignore
+  475  git add .
+  476  git status
+  477  git reset HEAD .gitigunore
+  478  git status
+  479  vi .gitignore
+  480  git add .
+  481  git status
+  482  git reset HEAD .gitigunore
+  483  vi .gitignore
+  484  git add .
+  485  git status
+  486  vi .gitignore
+  487  git add .
+  488  git status
+  489  vi .gitignore
+  490  git reset HEAD .gitigunore
+  491  vi .gitignore
+  492  vi .gitignore
+  493  git add .
+  494  git status
+  495  vi .gitignore
+  496  git add .
+  497  git status
+  498  git reset HEAD .gitigunore
+  499  vi .gitignore
+  500  git add .
+  501  git status
+  502  git reset HEAD .gitigunore
+  503  git status
+  504  git reset HEAD
+  505  git reset HEAD .gitigunore
+  506  git status
+  507  vi .gitignore
+  508  git add .
+  509  git status
+  510  cd ../
+  511  ls a-
+  512  ls -a
+  513  vi README.md
+  514  git add .
+  515  git status
+  516  history 300
+  517  ls
+  518  cd linux_practice2
+  519  ls
+  520  echo 'history 300' > exec_command.log
+  521  git add .
+  522  git status
+  523  git commit -m 'first commit'
+  524  git commit -m '指摘部分修正'
+  525  git status
+  526  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  527  git remote -v
+  528  git push origin master
+  529  ls
+  530  echo '# history 300' >> exec_command.log
+  531  git add .
+  532  git status
+  533  git commit -m 'first commit'
+  534  git status
+  535  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  536  git remote -v
+  537  git remote -v
+  538  git push origin master
+  539  echo  history 300 >> exec_command.log
+  540  git add .
+  541  git status
+  542  git commit -m 'first commit'
+  543  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  544  git remote -v
+  545  git push origin master
+  546  cd ../
+  547  vi READMW
+  548  vi README.md
+  549  git add .
+  550   cd linux_practice2
+  551  echo history 300 > exec_command.log
+  552  cat exec_command.log
+  553  history 10
+  554  echo history 10
+  555  git add .
+  556  git status
+  557  git commit -m 'first commit'
+  558  git commit -m 'logの書き換え'
+  559  git remote add origin https://github.com/misatonagasawa/server_lesson.git
+  560  git remote -v
+  561  git push origin master
+  562  吉廣 鎮 メンター
+  563    3分前
+  564  echo history 300
+  565   history 300 > exec_command.log
