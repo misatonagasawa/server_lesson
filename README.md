@@ -2,6 +2,6 @@
 . touch
 . &&
 . cp
-. mv
+. mv 
 . rm
 . vi
